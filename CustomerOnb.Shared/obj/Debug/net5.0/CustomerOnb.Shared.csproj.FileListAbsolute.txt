@@ -1,0 +1,15 @@
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\bin\Debug\net5.0\CustomerOnb.Shared.deps.json
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\bin\Debug\net5.0\CustomerOnb.Shared.dll
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\bin\Debug\net5.0\ref\CustomerOnb.Shared.dll
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\bin\Debug\net5.0\CustomerOnb.Shared.pdb
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.csproj.AssemblyReference.cache
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.AssemblyInfoInputs.cache
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.AssemblyInfo.cs
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.dll
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\ref\CustomerOnb.Shared.dll
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.pdb
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\bin\Debug\net5.0\CustomerOnb.Data.dll
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\bin\Debug\net5.0\CustomerOnb.Data.pdb
+C:\Users\Chukwuka.Ugwu\source\repos\CustomerOnb\CustomerOnb.Shared\obj\Debug\net5.0\CustomerOnb.Shared.csproj.CopyComplete

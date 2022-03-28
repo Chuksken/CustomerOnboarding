@@ -1,0 +1,26 @@
+Time: 3/28/2022 12:32:34 AM | LoggedMessage : Rapid API call failed: Forbidden
+
+Time: 3/28/2022 12:34:34 AM | LoggedMessage : Rapid API call failed: Forbidden
+
+Time: 3/28/2022 5:23:50 AM | LoggedMessage : Rapid API call failed: System.Net.Http.HttpRequestException: Request failed with status code Forbidden
+
+Time: 3/28/2022 7:16:25 AM | LoggedMessage : State was Created successfully!
+
+Time: 3/28/2022 7:18:01 AM | LoggedMessage : LGA was Created successfully!
+
+Time: 3/28/2022 7:19:09 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 7:20:54 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 7:26:37 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 7:28:51 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 7:31:02 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 7:31:47 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 7:33:46 AM | LoggedMessage : Customer was Created successfully!
+
+Time: 3/28/2022 1:26:13 PM | LoggedMessage : Rapid API call failed: System.Net.Http.HttpRequestException: Request failed with status code Forbidden
+
